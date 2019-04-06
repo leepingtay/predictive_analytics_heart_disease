@@ -1,4 +1,4 @@
-#### Predictive Analytics Capstone Project - Classification Models
+### Predictive Analytics Capstone Project - Classification Models in Python
 This Jupyter Notebook is the notebook for my capstone project on heart disease prediction.
 
 #### Source of dataset
