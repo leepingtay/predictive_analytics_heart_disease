@@ -21,4 +21,4 @@ Lee Ping Tay
 #### Acknowledgments
 My professor, Andrew Long
 
-##### *Please leave a comment or star the github repository if you like it. Thank you.
+
