@@ -19,6 +19,6 @@ Jupyter Notebook
 Lee Ping Tay
 
 #### Acknowledgments
-My professor, Andrew Long [GitHub Pages](https://github.com/andrewwlong/diabetes_readmission)
+My professor, Andrew Long [GitHub Page](https://github.com/andrewwlong/diabetes_readmission)
 
 
